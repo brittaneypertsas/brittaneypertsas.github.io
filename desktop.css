@@ -1,0 +1,75 @@
+header{
+color: pink;
+font-size: 25px;
+text-align: center;
+}
+
+nav {
+  grid-area: nav;
+  text-decoration: none;
+  list-style-type: none;
+  text-align: center;
+}
+
+nav ul{
+  text-decoration: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#colorbar{
+background-color: magenta;
+height: 100px;
+}
+
+nav ul li{
+  text-decoration: none;
+  list-style-type: none;
+  display: inline;
+}
+
+a:hover{
+  background-color: teal;
+}
+
+.container{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 300px);
+grid-column-gap: 200px;
+grid-row-gap: 50px;
+}
+
+.mainpage{
+  max-width: 100%
+}
+
+.Item1{
+  width: 350px;
+  height: 400px;
+
+}
+
+.Item2{
+width: 350px;
+height: 400px;
+
+}
+.Item3{
+  width: 350px;
+  height: 400px;
+}
+
+h2{
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style: dotted;
+  color: teal;
+}
+
+h3{
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  color: teal;
+}

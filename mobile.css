@@ -1,0 +1,13 @@
+@import "desktop.css";
+
+.Container{
+  display: inline-block;
+}
+
+a:hover{
+  color: white;
+}
+
+nav ul li{
+  display: block;
+}
