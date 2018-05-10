@@ -4,7 +4,7 @@ font-size: 25px;
 text-align: center;
 }
 
-.mainpage{
+main{
   background-color: black;
 }
 nav {
@@ -12,6 +12,7 @@ nav {
   text-decoration: none;
   list-style-type: none;
   text-align: center;
+  background-color: black;
 }
 
 nav ul{
@@ -41,6 +42,7 @@ a:hover{
   grid-template-columns: repeat(auto-fit, 300px);
 grid-column-gap: 200px;
 grid-row-gap: 50px;
+background-color: black;
 }
 
 .mainpage{
@@ -68,6 +70,7 @@ h2{
   text-decoration: underline;
   text-decoration-style: dotted;
   color: teal;
+  background-color: black;
 }
 
 h3{
@@ -75,4 +78,9 @@ h3{
   text-decoration: underline;
   text-decoration-style: wavy;
   color: teal;
+  background-color: black;
+}
+h1{
+  background-color: black;
+  text-decoration-color: white;
 }
