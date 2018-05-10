@@ -4,6 +4,9 @@ font-size: 25px;
 text-align: center;
 }
 
+main{
+  background-color: black;
+}
 nav {
   grid-area: nav;
   text-decoration: none;
