@@ -5,7 +5,7 @@ text-align: center;
 }
 
 main{
-  background-color: black;
+  color: black;
 }
 nav {
   grid-area: nav;
