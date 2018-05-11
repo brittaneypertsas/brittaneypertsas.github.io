@@ -12,11 +12,11 @@ $(document).ready(function(){
 
 });
 
-    $("#showstuff").hover(function(){
+    $(".showstuff").hover(function(){
       $("ul").show();
   });
 
-  $("#hidestuff").hover(function(){
+  $(".hidestuff").hover(function(){
     $("ul").hide();
 });
 
@@ -26,13 +26,7 @@ $("#target").on("click", function() {
   alert("Enjoy your food!");
 });
 
-$("#replacetext").hover(function(){
-$("#replace").html("<p>Enjoy! Come back soon for more recipes!</p>");
-});
 
-$(".background").hover(function(){
-    $(".background").css("background-color", "pink");
-    $(".background").css("color", "white");
-});
+
 
 });

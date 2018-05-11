@@ -10,7 +10,6 @@ nav {
   text-decoration: none;
   list-style-type: none;
   text-align: center;
-  background-color: black;
 }
 
 nav ul{
@@ -44,6 +43,7 @@ grid-row-gap: 50px;
 
 .mainpage{
   max-width: 100%
+  text-align:center;
 }
 
 .Item1{
