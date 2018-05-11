@@ -60,6 +60,11 @@ height: 400px;
   width: 350px;
   height: 400px;
 }
+.Picture{
+  width: 350px;
+  height: 400px;
+  text-align: center;
+}
 
 h2{
   text-align: center;
