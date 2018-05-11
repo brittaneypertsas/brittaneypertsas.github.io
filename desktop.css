@@ -76,14 +76,12 @@ h3{
   color: teal;
 }
 
-ul{
-  text-align: center;
-  list-style-type: none;
 }
 p{
   text-align: center;
 }
-li{
+ul li{
   text-align: center;
   list-style-type: none;
+  list-style: none;
 }
