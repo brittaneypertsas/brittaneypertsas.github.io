@@ -19,7 +19,7 @@ nav ul{
   padding: 0;
 }
 
-#colorbar{
+.colorbar{
 background-color: magenta;
 height: 100px;
 }
