@@ -76,3 +76,8 @@ h3{
   text-decoration-style: wavy;
   color: teal;
 }
+
+ul{
+  text-align: center;
+  list-style-type: none;
+}
