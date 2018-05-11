@@ -43,7 +43,6 @@ grid-row-gap: 50px;
 
 .mainpage{
   max-width: 100%
-  text-align:center;
 }
 
 .Item1{
@@ -86,4 +85,5 @@ p{
 }
 li{
   text-align: center;
+  list-style-type: none;
 }
