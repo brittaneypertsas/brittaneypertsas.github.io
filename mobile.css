@@ -11,6 +11,7 @@ a:hover{
 nav ul li{
   display: block;
 }
-main{
-  color: white;
+.colorbar{
+  background-color: teal;
+  height: 75px;
 }
