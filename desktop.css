@@ -6,6 +6,7 @@ text-align: center;
 
 main{
   background-color: black;
+  text-decoration-color: white;
 }
 nav {
   grid-area: nav;
