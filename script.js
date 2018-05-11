@@ -10,14 +10,14 @@ $("#hidestuff").hover(function(){
 
 $("button").click(function(){
 
- $("#fadein1").fadeIn(1000);
+    $("#pic").fadeIn("5000");
 
- $("#fadein2").fadeIn(2000);
+      });
+      $("button").click(function(){
 
- $("#fadein3").fadeIn(3000);
+      $("#pic").fadeOut("5000");
 
- $("fadein4").fadeIn(4000);
-});
+  });
 
 $(".togglebox").toggle(8000);
 
