@@ -10,12 +10,12 @@ $("#hidestuff").hover(function(){
 
 $("button").click(function(){
 
-    $("#pic").fadeIn("5000");
+    $("#pic").fadeIn("10000");
 
       });
       $("button").click(function(){
 
-      $("#pic").fadeOut("5000");
+      $("#pic").fadeOut("10000");
 
   });
 
